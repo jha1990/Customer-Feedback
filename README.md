@@ -1,8 +1,16 @@
 # Customer-Feedback
 1. This Project all about - Customer Feedback Analysis: By going deeper into understanding the given datasets, I have found that there are 9 features in the datasets, whereas I dropped the ID column to perform further analysis. Essentially, I found that the first feature named: ‘Last time you used the service’ tells the frequency of the customer the last time used the services., it consists of four main durations which are within 30 days, 30-90 days, more than 3 months, and more than a year. The second attribute; the money spent feature tells us how much money they have spent on services which mainly consists of 1-100, 100-500, 500-1000, >1000         
 
-Attribute – Efficiency, Value, Friendliness, and Reliability are those features which were scored from 0-5 by customers. Whereas Overall Satisfaction, scoring lies between 0-10
-The verbatim feature tells about customer feedback or comments on the service.  
+Attribute :
+
+   1. Efficiency
+   2. Value 
+   3. Friendliness
+   4. Reliability are those features which were scored from 0-5 by customers
+   5. Overall Satisfaction, scoring lies between 0-10
+   6. The verbatim feature tells about customer feedback or comments on the service
+   7. Money Spent
+   8. Last time used the service 
    
 
 2. Sentiment Analysis: By analysing the customer feedback, I have used SentimentIntensityAnalyzer () to score comments into 3 categories positive, neutral and negative. During the analysis I found in the data - There are 71 reviews in the positive sentiment category. This means we have 71 pieces of feedback that express positive feelings about the service.
@@ -14,27 +22,25 @@ In this case, I looked at different aspects of the service, like how fast it is,
 
 5.	Key Findings:
 
-  •	We analysed customer reviews and found that 46.71% were positive, 26.97% were neutral, and 26.32% were negative. This indicates a generally positive sentiment overall.
+  > We analysed customer reviews and found that 46.71% were positive, 26.97% were neutral, and 26.32% were negative. This indicates a generally positive sentiment overall.
 
-  •	Efficiency, friendliness, and getting value for money are the most crucial factors influencing customer satisfaction. Focusing on these areas can lead to higher customer happiness.
+  > Efficiency, friendliness, and getting value for money are the most crucial factors influencing customer satisfaction. Focusing on these areas can lead to higher customer happiness.
 
-  •	Customers highly value getting good value for their investment. Providing cost-effective solutions or demonstrating the value of the service can enhance satisfaction.
+  > Customers highly value getting good value for their investment. Providing cost-effective solutions or demonstrating the value of the service can enhance satisfaction.
 
-  •	While reliability of service usage is important, they have a relatively smaller impact on overall satisfaction compared to other factors.
+  > While reliability of service usage is important, they have a relatively smaller impact on overall satisfaction compared to other factors.
 
 
 6.	Recommendations:
 
-    •	Train staff to be more approachable and friendly. Encourage positive interactions with customers to create a welcoming environment.
+      > Train staff to be more approachable and friendly. Encourage positive interactions with customers to create a welcoming environment.
 
-    •	Pay close attention to negative reviews and feedback. Identify recurring issues and take proactive steps to address them, demonstrating a commitment to improvement.
+      > Pay close attention to negative reviews and feedback. Identify recurring issues and take proactive steps to address them, demonstrating a commitment to improvement.
 
-    •	While not the most influential factor, maintaining a high level of reliability remains essential. Implement regular maintenance and checks to ensure consistent service delivery.
+      > While not the most influential factor, maintaining a high level of reliability remains essential. Implement regular maintenance and checks to ensure consistent service delivery.
 
 7.	Model Accuracy
 
-The model I used for analysis is highly accurate in predicting customer satisfaction. This means that the conclusions and insights I've drawn from the data are very reliable.
-
-This high level of accuracy gives confidence in the recommendations I’ve made. This also means that the actions I suggest are backed by strong evidence and are more likely to lead to positive outcomes for customers and businesses.
+The model I used for analysis is highly accurate in predicting customer satisfaction. This means that the conclusions and insights I've drawn from the data are very reliable. This high level of accuracy gives confidence in the recommendations I’ve made. This also means that the actions I suggest are backed by strong evidence and are more likely to lead to positive outcomes for customers and businesses.
 
 ![image](https://github.com/jha1990/Customer-Product-Feedback-Analysis/assets/106313052/7dde7341-c682-4ab5-822f-66481f36d384)
