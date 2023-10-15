@@ -42,5 +42,3 @@ In this case, I looked at different aspects of the service, like how fast it is,
 7.	Model Accuracy
 
 The model I used for analysis is highly accurate in predicting customer satisfaction. This means that the conclusions and insights I've drawn from the data are very reliable. This high level of accuracy gives confidence in the recommendations I’ve made. This also means that the actions I suggest are backed by strong evidence and are more likely to lead to positive outcomes for customers and businesses.
-
-![image](https://github.com/jha1990/Customer-Product-Feedback-Analysis/assets/106313052/7dde7341-c682-4ab5-822f-66481f36d384)
