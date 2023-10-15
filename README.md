@@ -22,22 +22,22 @@ In this case, I looked at different aspects of the service, like how fast it is,
 
 5.	Key Findings:
 
-  > We analysed customer reviews and found that 46.71% were positive, 26.97% were neutral, and 26.32% were negative. This indicates a generally positive sentiment overall.
+  * We analysed customer reviews and found that 46.71% were positive, 26.97% were neutral, and 26.32% were negative. This indicates a generally positive sentiment overall.
 
-  > Efficiency, friendliness, and getting value for money are the most crucial factors influencing customer satisfaction. Focusing on these areas can lead to higher customer happiness.
+  * Efficiency, friendliness, and getting value for money are the most crucial factors influencing customer satisfaction. Focusing on these areas can lead to higher customer happiness.
 
-  > Customers highly value getting good value for their investment. Providing cost-effective solutions or demonstrating the value of the service can enhance satisfaction.
+  * Customers highly value getting good value for their investment. Providing cost-effective solutions or demonstrating the value of the service can enhance satisfaction.
 
-  > While reliability of service usage is important, they have a relatively smaller impact on overall satisfaction compared to other factors.
+  * While reliability of service usage is important, they have a relatively smaller impact on overall satisfaction compared to other factors.
 
 
 6.	Recommendations:
 
-      > Train staff to be more approachable and friendly. Encourage positive interactions with customers to create a welcoming environment.
+    * Train staff to be more approachable and friendly. Encourage positive interactions with customers to create a welcoming environment.
 
-      > Pay close attention to negative reviews and feedback. Identify recurring issues and take proactive steps to address them, demonstrating a commitment to improvement.
+    * Pay close attention to negative reviews and feedback. Identify recurring issues and take proactive steps to address them, demonstrating a commitment to improvement.
 
-      > While not the most influential factor, maintaining a high level of reliability remains essential. Implement regular maintenance and checks to ensure consistent service delivery.
+    * While not the most influential factor, maintaining a high level of reliability remains essential. Implement regular maintenance and checks to ensure consistent service delivery.
 
 7.	Model Accuracy
 
