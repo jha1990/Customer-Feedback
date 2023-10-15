@@ -3,14 +3,14 @@
 
 Attribute :
 
-   1. Efficiency
-   2. Value 
-   3. Friendliness
-   4. Reliability are those features which were scored from 0-5 by customers
-   5. Overall Satisfaction, scoring lies between 0-10
-   6. The verbatim feature tells about customer feedback or comments on the service
-   7. Money Spent
-   8. Last time used the service 
+   * Efficiency
+   * Value 
+   * Friendliness
+   * Reliability are those features which were scored from 0-5 by customers
+   * Overall Satisfaction, scoring lies between 0-10
+   * The verbatim feature tells about customer feedback or comments on the service
+   * Money Spent
+   * Last time used the service 
    
 
 2. Sentiment Analysis: By analysing the customer feedback, I have used SentimentIntensityAnalyzer () to score comments into 3 categories positive, neutral and negative. During the analysis I found in the data - There are 71 reviews in the positive sentiment category. This means we have 71 pieces of feedback that express positive feelings about the service.
