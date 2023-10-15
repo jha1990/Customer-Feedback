@@ -1,4 +1,4 @@
-# Customer-Feedback
+# Customer-Feedback:
 
 This Project is all about - Customer Feedback Analysis: By going deeper into understanding the given datasets, I have found that there are 9 features in the datasets, whereas I dropped the ID column to perform further analysis. Essentially, I found that the first feature named: ‘Last time you used the service’ tells the frequency of the customer the last time used the services., it consists of four main durations which are within 30 days, 30-90 days, more than 3 months, and more than a year. The second attribute; the money spent feature tells us how much money they have spent on services which mainly consists of 1-100, 100-500, 500-1000, >1000         
 
@@ -44,6 +44,6 @@ In this case, I looked at different aspects of the service, like how fast it is,
 
   * While not the most influential factor, maintaining a high level of reliability remains essential. Implement regular maintenance and checks to ensure consistent service delivery.
 
-# Model Accuracy
+# Model Accuracy:
 
 The model I used for analysis is highly accurate in predicting customer satisfaction. This means that the conclusions and insights I've drawn from the data are very reliable. This high level of accuracy gives confidence in the recommendations I’ve made. This also means that the actions I suggest are backed by strong evidence and are more likely to lead to positive outcomes for customers and businesses.
